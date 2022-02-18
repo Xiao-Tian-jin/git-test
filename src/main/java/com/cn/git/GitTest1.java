@@ -13,6 +13,6 @@ public class GitTest1 {
         System.out.println("master commit1");
         System.out.println("hto-fix test");
         System.out.println("push testss");
-         System.out.println("push tests1");
+        System.out.println("push tests1");
     }
 }
